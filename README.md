@@ -18,7 +18,7 @@ So I joined Zuri and I4G training cohort 1 for 2022 and below were links to the 
 * An [About me](https://codepen.io/Yhujay/full/wvygZgM) page
 > ## From Published Github Pages
 * [Responsive Landing Page](https://obianuju007.github.io/responsive-form/)
-* [A registration form], partially responsive(https://obianuju007.github.io/registration-form/)
+* [A registration form](https://obianuju007.github.io/registration-form/), partially responsive
 * [Flexbox and Grid](https://obianuju007.github.io/)
 
 
